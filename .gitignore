@@ -1,0 +1,26 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Database files
+*.db
+*.sqlite
+tmp/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# API Keys
+secrets.toml
+config.toml

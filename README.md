@@ -97,18 +97,6 @@ AI-powered patient data management platform that reduces
 administrative overhead by 40% and improves compliance.
 
 
-## 📁 Project Structure
-
-ai_email_gtm_outreach_agent/
-├── ai_email_gtm_outreach_agent.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-├── .env # API keys (not in git)
-├── .gitignore # Git ignore rules
-├── tmp/ # SQLite database storage
-│ └── gtm_outreach.db # Agent memory database
-└── README.md # This file
-
-
 ## 🔧 Troubleshooting
 
 ### App Stuck on Research Stage
